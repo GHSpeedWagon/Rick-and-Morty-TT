@@ -1,4 +1,4 @@
-# 🧒Rick-and-Morty-TT🧒
+# 🧒Rick-and-Morty-app🧒
 ___
 ## 📄Short description
 ___Rick and Morty app___ - it is a java web application that use Hibernate and Spring frameworks.
